@@ -1,0 +1,14 @@
+kernel/source/
+device/source-j2corelte/
+build/
+vendor/
+*.img
+*.zip
+*.tar
+*.tar.gz
+*.apk
+*.elf
+*.o
+.env
+*token*
+*secret*

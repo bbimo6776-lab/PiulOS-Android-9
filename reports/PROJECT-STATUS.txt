@@ -1,0 +1,29 @@
+===== PIULOS PROJECT STATUS =====
+Mon Oct 26 17:48:01 +00 2026
+
+Target: Samsung Galaxy J2 Core SM-J260F
+Codename: j2corelte
+Target Android: 9 Pie
+
+===== STORAGE =====
+Filesystem       Size Used Avail Use% Mounted on
+/dev/block/dm-51  50G  48G  2.2G  96% /data/data/com.google.android.gms
+
+===== FILE COUNTS =====
+device     7
+kernel     3
+boot       1
+system     1
+vendor     1
+tools      5
+docs       9
+reports    1
+backup     0
+
+===== SOURCE STATUS =====
+Android source checkout: MISSING
+Kernel source directory: MISSING
+Vendor directory: MISSING
+
+A directory or README does not prove source completeness.
+No flashable ROM is claimed by this script.
